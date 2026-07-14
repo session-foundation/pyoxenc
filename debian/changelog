@@ -1,3 +1,9 @@
+oxen-pyoxenc (1.0.6-2~deb14) forky; urgency=medium
+
+  * Rebuild
+
+ -- Jason Rhinelander <jason@session.foundation>  Mon, 13 Jul 2026 22:41:17 -0300
+
 oxen-pyoxenc (1.0.6-1~deb14) forky; urgency=medium
 
   * forky deb
